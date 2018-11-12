@@ -1,0 +1,13 @@
+
+[data-div="1"]{
+  background:red;
+}
+
+[data-div="2"]{
+  background:green;
+}
+
+[data-div="3"]{
+  color:purple;
+  font-size:100px
+}
